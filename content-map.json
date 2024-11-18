@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "MouseMaster",
+        "HERO_HEADING_TEXT": "Navigate Your Digital World with Precision",
+        "HERO_SUBHEADING_TEXT": "Discover the perfect computer mouse for your needs, from ergonomic designs to high-performance gaming models",
+        "FOOTER_TEXT": "MouseMaster \u00a9 2023 | Your trusted source for computer mice information and reviews"
+    }
+}
